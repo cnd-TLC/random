@@ -1,0 +1,18 @@
+.content {
+  display: flex;
+}
+
+.content img {
+  margin-right: 10px;
+  display: block;
+}
+.jo {
+  width: 80%;
+  margin: auto;
+  background-color: E5BA73;
+
+}
+.mystyle{
+  width: 80%
+  margin: auto;
+}
